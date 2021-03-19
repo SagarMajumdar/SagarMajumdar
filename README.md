@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile application development using React js.
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on web and mobile app projects.
-- 📫 How to reach me? My email is sagarmajumdar92@gmmail.com 
+- 📫 How to reach me? My email is sagarmajumdar92@gmail.com 
 
 <!---
 SagarMajumdar/SagarMajumdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
